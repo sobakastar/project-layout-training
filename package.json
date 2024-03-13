@@ -1,0 +1,24 @@
+{
+  "name": "project-layout-training",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobakastar/project-layout-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sobakastar/project-layout-training/issues"
+  },
+  "homepage": "https://github.com/sobakastar/project-layout-training#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "sass": "^1.71.1"
+  }
+}
